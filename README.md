@@ -1,7 +1,7 @@
 # Page theme and layout info plugin for Typesetter CMS #
 
 ## About
-DEVLOPER PLUGIN: It illustrates how to obtain information about a current page\'s theme and layout on the server side (PHP). Its main purpose is for plugin developers to adapt their plugin output to the used framework and version (such as Bootstrap 3 or 4). Framework information relies on the new 'FrontEndFramework' section in a theme's Addon.ini, which is only available in Bootswatch themes as of Typesetter > 5.1. Older installed themes will not have it! The plugin shows infos via messages when logged-in.
+DEVLOPER PLUGIN: It illustrates how to obtain information about a current page\'s theme and layout on the server side (PHP). Its main purpose is for plugin developers to adapt their plugin output to the used framework and version (such as Bootstrap 3 or 4). Framework information relies on the new [FrontEndFramework](https://github.com/Typesetter/Typesetter/blob/803ad84045f558f398a2b537c30d36a796a7176d/themes/Bootswatch4_Scss/Addon.ini#L6) section in a theme's Addon.ini, which is only available in Bootswatch themes as of Typesetter > 5.1. Older installed themes will not have it! The plugin shows infos via messages when logged-in.
 
 If you are not a developer, go away. No offense ;)
 
