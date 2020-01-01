@@ -24,4 +24,4 @@ See also [Typesetter Home](https://www.typesettercms.com), [Typesetter on GitHub
 
 
 ## Licenses
-CCO public domain
+CC0 public domain
